@@ -1,5 +1,4 @@
-ifconfig
 docker
-sshd
+ssh
 apache2
-python-3.8
+python3.8
