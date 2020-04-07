@@ -1,3 +1,5 @@
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/cythron/training-data-analyst/tree/master/master)
+
 # training-data-analyst 
 
 Labs and demos for Google Cloud Platform courses (http://cloud.google.com/training).
