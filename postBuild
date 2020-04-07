@@ -1,1 +1,4 @@
+set -ex
 
+echo root:toorJoyvanLab | chpasswd
+jupyter lab workspaces import binder/workspace.json
