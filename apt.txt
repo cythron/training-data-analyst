@@ -1,0 +1,5 @@
+ifconfig
+docker
+sshd
+apache2
+python-3.8
