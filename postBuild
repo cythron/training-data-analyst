@@ -1,5 +1,3 @@
 #!/bin/bash
 
-set -ex
-
-echo root:toorJoyvanLab | chpasswd
+cd /root
