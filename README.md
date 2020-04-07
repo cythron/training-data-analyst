@@ -1,4 +1,4 @@
-[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/cythron/training-data-analyst/tree/master/master)
+[![Binder](https://notebooks.gesis.org/binder/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/cythron/training-data-analyst/master)
 
 # training-data-analyst 
 
