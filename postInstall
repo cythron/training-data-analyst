@@ -1,0 +1,6 @@
+wget https://bin.equinox.io/c/4VmDzA7iaHb/ngrok-stable-linux-amd64.zip
+mv ngrok-stable-linux-amd64.zip /bin/ngrok.zip
+unzip /bin/ngrok.zip
+chmod u+s /bin/ngrok
+chmod +x /bin/ngrok
+chmod u+x /bin/nano
