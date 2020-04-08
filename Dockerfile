@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM kalilinux/kali-rolling:3ee28134f4a6
 
 MAINTAINER cythron
 
@@ -15,10 +15,10 @@ RUN adduser --disabled-password \
     --uid ${NB_UID} \
     ${NB_USER}
     
-COPY . ${HOME}
-USER root
-RUN chown -R ${NB_UID} ${HOME}
-USER ${NB_USER}
+#COPY . ${HOME}
+#USER root
+#RUN chown -R ${NB_UID} ${HOME}
+#USER ${NB_USER}
 
-RUN useradd kool
-RUN echo -e "look\nlook" | passwd kool
+#RUN useradd kool
+#RUN echo -e "look\nlook" | passwd kool
