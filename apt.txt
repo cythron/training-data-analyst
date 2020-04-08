@@ -5,3 +5,4 @@ python3.8
 nmap
 curl
 wget
+nano
