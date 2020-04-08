@@ -1,4 +1,4 @@
-FROM ubuntu:3e6b4be46d13
+FROM ubuntu:20.04
 
 MAINTAINER cythron
 
